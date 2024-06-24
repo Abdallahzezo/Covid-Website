@@ -7,3 +7,6 @@
 ## [Live Demo](https://abdallahzezo.github.io/Covid/)
 
 ![abdallahzezo github io_Covid_](https://github.com/Abdallahzezo/Covid/assets/100561400/05fb2aaf-ea78-4cd9-a0e9-92aab662c43f)
+
+### Website Clone
+This website is a clone of the original site. It has been replicated for educational and demonstration purposes. All credit for the original content and design goes to the original creators.
